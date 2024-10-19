@@ -1,0 +1,14 @@
+root 2024-06-10 10:54:25,579 INFO The values entered by the user are 5 and 6
+root 2024-06-10 10:58:33,862 INFO The values entered by the user are 8 and 4
+root 2024-06-10 10:58:33,862 INFO Entered into function
+root 2024-06-10 10:58:59,713 INFO The values entered by the user are 12 and 4
+root 2024-06-10 10:58:59,713 INFO Entered into function
+root 2024-06-10 10:58:59,713 INFO We have completed the division with the value 3.0
+root 2024-06-10 10:59:25,320 INFO The values entered by the user are 12 and 0
+root 2024-06-10 10:59:25,320 INFO Entered into function
+root 2024-06-10 10:59:25,320 ERROR division by zero
+Traceback (most recent call last):
+  File "E:\Coding Practice\Python\logging_3.py", line 10, in divide
+    div =a/b
+         ~^~
+ZeroDivisionError: division by zero
