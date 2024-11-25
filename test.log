@@ -1,3 +1,26 @@
 INFO:root:This is my first log
 INFO:root:2
 WARNING:root:This goes for warning
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:The values entered by the user are 12 and 0
+INFO:root:Entered into function
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\singh\AppData\Local\Temp\ipykernel_17000\4159857985.py", line 6, in divide
+    div =a/b
+         ~^~
+ZeroDivisionError: division by zero
+ 2024-11-26 01:27:22,423 INFO root This is my log with timestamp
+ 2024-11-26 01:27:32,290 INFO root This is my log with timestamp
+INFO:root:This is my log with timestamp
+INFO:root:This is my log with timestamp_new
+INFO:root:This is my log with timestamp_new
+INFO:root:This is my log with timestamp_new
+INFO:root:This is my log with timestamp_new
